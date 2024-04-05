@@ -32,3 +32,6 @@ Abstract: This research investigates the effect of discounts, particularly price
 
 # Test.sql
     This file is used to calculate the f1, precision and recall score. Make sure the correct data is loaded since this is        used for all three models
+
+# simulated_sales_data.csv
+    This file contains the simulated data
